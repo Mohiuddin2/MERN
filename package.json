@@ -1,0 +1,22 @@
+{
+  "name": "mern",
+  "version": "1.0.0",
+  "description": "Mern Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mohiuddin2/MERN.git"
+  },
+  "keywords": [
+    "Mern"
+  ],
+  "author": "Mohammed Mohiuddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Mohiuddin2/MERN/issues"
+  },
+  "homepage": "https://github.com/Mohiuddin2/MERN#readme"
+}
